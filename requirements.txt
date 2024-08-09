@@ -1,0 +1,7 @@
+Flask
+pydub
+ffmpeg-python
+openai
+googletrans==4.0.0-rc1  # For translation services
+google-api-python-client  # For interacting with Google APIs
+isodate  # For ISO 8601 date/time parsing
